@@ -1,2 +1,2 @@
 # Powerbi-Dashboards
-Created These dashboards as part of Academic projects.
+Created these dashboards as part of Academic projects.
